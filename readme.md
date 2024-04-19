@@ -1,3 +1,5 @@
+![gmm_cosine_top10](https://github.com/YOOHYUNJUNE/music_rec_GMM/blob/master/output.png)
+
 GMM(gaussian mixture model)군집화(clustering)를 이용한 유사 음원 추천
 
 한계
